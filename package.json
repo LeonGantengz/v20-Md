@@ -1,7 +1,7 @@
 {
-    "name": "KingOfBear-Md",
-    "version": "0.4.5",
-    "description": "Simle Bot WhatsApp with Baileys Multi Device",
+    "name": "Yui-Chan",
+    "version": "4.0.0",
+    "description": "Bot WhatsApp By LeonGanz",
     "depecrated": false,
     "main": "index.js",
     "directories": {
