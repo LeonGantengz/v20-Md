@@ -25,10 +25,13 @@ Ariffb:
 https://github.com/Ariffb25
 MhankBarBar: 
 https://github.com/MhankBarBar
-KingOfBear: 
-https://github.com/SaipulAnuar
+LeonGanz: 
+https://github.com/Bl4ck-lion
 ilham: 
 https://github.com/Ilhamskhzyi
+Ferdiz-AFK
+https://github.com/FERDIZ-afk
+
 
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -41,7 +44,7 @@ https://github.com/Ilhamskhzyi
            hydratedButtons: [{
              urlButton: {
                displayText: '𝙶𝙴𝚃 𝙱𝙾𝚃',
-               url: `${ApiiKey}`
+               url: `https://bl4ck-lion.github.io/index.php/`
              }
 
            },
