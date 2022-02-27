@@ -20,21 +20,21 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'https://pastelink.net/v20Md',
+  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://api.lolhuman.xyz': 'rey2k21',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear3.herokuapp.com': 'https://pastelink.net/v20Md',
+  'https://apikey-bear3.herokuapp.com': 'https://youtu.be/JNuiRPRysuk',
   'https://viko-api.herokuapp.com': 'vinko',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'IkyOgiwara'
 }
 
 lolkey = 'rey2k21'
 zekskey = 'apivinz'
-xteamkey = 'https://pastelink.net/v20Md'
+xteamkey = 'ebb6251cc00f9c63'
 leyskey = 'dappakntlll'
-bearkey = 'https://pastelink.net/v20Md'
+bearkey = 'https://youtu.be/JNuiRPRysuk'
 ApiiKey = 'https://pastelink.net/v20Md'
 vinkey = 'vinko'
 
