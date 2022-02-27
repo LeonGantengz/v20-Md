@@ -35,7 +35,7 @@ zekskey = 'apivinz'
 xteamkey = 'ebb6251cc00f9c63'
 leyskey = 'dappakntlll'
 bearkey = 'https://youtu.be/JNuiRPRysuk'
-ApiiKey = 'https://pastelink.net/v20Md'
+ApiiKey = 'https://tinyurl.com/SCRIPT-YUI-MD'
 vinkey = 'vinko'
 
 namabot = 'Yui-Chan'
